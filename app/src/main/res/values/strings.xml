@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMI_App</string>
+    <string name="you_are_healthy">You are healthy</string>
+    <string name="normal_range">(normal range is 18.5 – 24.9)</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="cm">Cm</string>
+    <string name="height">Height</string>
+</resources>
